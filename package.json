@@ -1,6 +1,8 @@
 {
     "name": "obscuritylabs-development-pack",
     "displayName": "obscuritylabs-development-pack",
+    "publisher": "Obscurity Labs",
+    "repository": {"url": "https://github.com/obscuritylabs/obscuritylabs-development-pack"},
     "description": "Extension Pack used by Developers at Obscurity Labs",
     "version": "0.0.1",
     "engines": {
