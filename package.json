@@ -10,7 +10,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "nrwl.angular-console",
         "VisualStudioExptTeam.vscodeintellicode",
         "SonarSource.sonarlint-vscode",
         "usernamehw.errorlens",
