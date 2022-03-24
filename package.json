@@ -4,7 +4,7 @@
     "publisher": "ObscurityLabs",
     "repository": {"url": "https://github.com/obscuritylabs/obscuritylabs-development-pack"},
     "description": "Extension Pack used by Developers at Obscurity Labs",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -19,8 +19,9 @@
         "Gruntfuggly.todo-tree",
         "coddx.coddx-alpha",
         "vscode-icons-team.vscode-icons",
+        "streetsidesoftware.code-spell-checker",
 
-        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.vscode-remote-extensionpack",
         "ms-azuretools.vscode-docker",
         "formulahendry.docker-explorer",
 
@@ -33,6 +34,7 @@
 
         "eriklynd.json-tools",
         "quicktype.quicktype",
+        "be5invis.toml",
 
         "yzhang.markdown-all-in-one",
         "thomascsd.vscode-readme-pattern",
@@ -47,13 +49,18 @@
         "ms-python.python",
         "njpwerner.autodocstring",
 
+        "eg2.vscode-npm-script",
         "dbaeumer.vscode-eslint",
         "rbbit.typescript-hero",
+        "ms-vscode.vscode-typescript-next",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
 
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "ipedrazas.kubernetes-snippets",
-        "ivory-lab.jenkinsfile-support"
+        "ivory-lab.jenkinsfile-support",
+        "HashiCorp.terraform",
+        "mindaro.mindaro"
     ]
 }
