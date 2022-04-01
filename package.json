@@ -2,6 +2,7 @@
     "name": "obscuritylabs-development-pack",
     "displayName": "obscuritylabs-development-pack",
     "publisher": "ObscurityLabs",
+    "icon": "img/android-chrome-512x512.png",
     "repository": {"url": "https://github.com/obscuritylabs/obscuritylabs-development-pack"},
     "description": "Extension Pack used by Developers at Obscurity Labs",
     "version": "0.3.0",
