@@ -4,7 +4,7 @@
     "publisher": "ObscurityLabs",
     "repository": {"url": "https://github.com/obscuritylabs/obscuritylabs-development-pack"},
     "description": "Extension Pack used by Developers at Obscurity Labs",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.65.0"
     },
