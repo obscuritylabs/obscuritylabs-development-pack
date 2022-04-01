@@ -55,6 +55,8 @@
 
         "ivory-lab.jenkinsfile-support",
         "HashiCorp.terraform",
-        "mindaro.mindaro"
+        "mindaro.mindaro",
+        
+        "mongodb.mongodb-vscode"
     ]
 }
